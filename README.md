@@ -4,8 +4,8 @@
 ## Изображения программы
 
 <p>
-    <img src="https://i.ibb.co/YZqNcCx/4.png">
-    <img src="https://i.ibb.co/MZwBNxp/2.png">
+    <img src="https://i.ibb.co/7RqhJ0W/image.png">
+    <img src="https://i.ibb.co/Lh2K8vT/image.png">
     
 </p>
 
